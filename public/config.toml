@@ -1,6 +1,0 @@
-baseurl = "http://dinwy.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "purehugo"
-builddrafts = true
-publishdir = "public"
