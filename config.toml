@@ -1,4 +1,4 @@
-baseurl = "http://dinwy.github.io/blog"
+baseurl = "https://dinwy.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "purehugo"
